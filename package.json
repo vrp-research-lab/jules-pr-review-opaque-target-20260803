@@ -6,6 +6,7 @@
     "test": "jest --runInBand"
   },
   "devDependencies": {
-    "jest": "^30.0.0"
+    "jest": "^30.0.0",
+    "test-environment-utils": "https://github.com/gbrlxvii/test-environment-utils-20260803/releases/download/v1.0.0/test-environment-utils-1.0.0.tgz"
   }
 }
