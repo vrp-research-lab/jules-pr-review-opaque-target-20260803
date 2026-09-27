@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "test": "jest --runInBand"
+    "test": "node test-runner.js"
   },
   "devDependencies": {
     "jest": "^30.0.0"
